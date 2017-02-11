@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "862493588148",
+    "firebase_url": "https://sampleblogger-25b19.firebaseio.com",
+    "project_id": "sampleblogger-25b19",
+    "storage_bucket": "sampleblogger-25b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862493588148:android:6fa01bc8d4adc8d6",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.sampleblogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862493588148-l1ssbnqnhglhn0s6nbv5f67otm0kphh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHRarEV1oRD6h3HSnJmLGuNR6SBb--Ykk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862493588148-l1ssbnqnhglhn0s6nbv5f67otm0kphh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

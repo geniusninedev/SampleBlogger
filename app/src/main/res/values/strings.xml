@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleBlogger</string>
+    <string name="facebook_app_id">1832788870296431</string>
+
+    <string name="fb_login_protocol_scheme">fb1832788870296431</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_profile">Profile</string>
+</resources>
